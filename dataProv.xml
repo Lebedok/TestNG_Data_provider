@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="First Test Suite">
+    <test name="First Test">
+        <parameter name="username" value="admin"></parameter>
+        <parameter name="password" value="Admin123"></parameter>
+        <classes>
+            <class name="Selenium.TestNG.Dataprovider2"></class>
+
+        </classes>
+
+    </test>
+
+
+</suite>
